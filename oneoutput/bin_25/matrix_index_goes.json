@@ -1,0 +1,29 @@
+[
+  {
+    "instrument": "GOES",
+    "instrument_tag": "goes",
+    "sliding_window_minutes": 30,
+    "lead_minutes": 60,
+    "matrix_path": "oneoutput/bin_25/matrix_goes_30min.json",
+    "training_rows": 214477,
+    "matrix_cells": 625
+  },
+  {
+    "instrument": "GOES",
+    "instrument_tag": "goes",
+    "sliding_window_minutes": 60,
+    "lead_minutes": 60,
+    "matrix_path": "oneoutput/bin_25/matrix_goes_60min.json",
+    "training_rows": 211879,
+    "matrix_cells": 625
+  },
+  {
+    "instrument": "GOES",
+    "instrument_tag": "goes",
+    "sliding_window_minutes": 90,
+    "lead_minutes": 60,
+    "matrix_path": "oneoutput/bin_25/matrix_goes_90min.json",
+    "training_rows": 209281,
+    "matrix_cells": 625
+  }
+]

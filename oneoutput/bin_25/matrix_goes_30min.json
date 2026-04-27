@@ -1,0 +1,5627 @@
+[
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 35.6,
+    "p30_peak_pfu": 35.6,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 31.9,
+    "p30_peak_pfu": 31.9,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 31.5,
+    "p30_peak_pfu": 31.5,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 28.7,
+    "p30_peak_pfu": 28.7,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 29.4,
+    "p30_peak_pfu": 29.4,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 39.4,
+    "p30_peak_pfu": 39.4,
+    "confidence": 0.18625211505922165
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 57.5,
+    "p30_peak_pfu": 57.5,
+    "confidence": 0.20193236714975843
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 73.44999999999999,
+    "p30_peak_pfu": 73.44999999999999,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 4.9609,
+    "p30_peak_pfu": 4.9609,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 155.0,
+    "p30_peak_pfu": 155.0,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": -1e-09,
+    "intensity_max": 42354.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 38750.0,
+    "p30_peak_pfu": 38750.0,
+    "confidence": 0.122752688172043
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 26600.0,
+    "p30_peak_pfu": 26600.0,
+    "confidence": 0.037015037593984945
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 27100.0,
+    "p30_peak_pfu": 27100.0,
+    "confidence": 0.09003690036900369
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 4980.0,
+    "p30_peak_pfu": 4980.0,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 42354.0,
+    "intensity_max": 84708.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 33.1,
+    "p30_peak_pfu": 33.1,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 25700.0,
+    "p30_peak_pfu": 25700.0,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 35200.0,
+    "p30_peak_pfu": 35200.0,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 17425.0,
+    "p30_peak_pfu": 17425.0,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 19606.5,
+    "p30_peak_pfu": 19606.5,
+    "confidence": 0.033355434847287035
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 84708.0,
+    "intensity_max": 127062.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 34400.0,
+    "p30_peak_pfu": 34400.0,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 11.8,
+    "p30_peak_pfu": 11.8,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 14.9,
+    "p30_peak_pfu": 14.9,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 127062.0,
+    "intensity_max": 169416.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 68.5,
+    "p30_peak_pfu": 68.5,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 28150.0,
+    "p30_peak_pfu": 28150.0,
+    "confidence": 0.10427122557726465
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 14.0,
+    "p30_peak_pfu": 14.0,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 169416.0,
+    "intensity_max": 211770.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 70.5,
+    "p30_peak_pfu": 70.5,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 27600.0,
+    "p30_peak_pfu": 27600.0,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 63.96666666666666,
+    "p30_peak_pfu": 63.96666666666666,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 64.13333333333333,
+    "p30_peak_pfu": 64.13333333333333,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 211770.0,
+    "intensity_max": 254124.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 31750.0,
+    "p30_peak_pfu": 31750.0,
+    "confidence": 0.06619422572178478
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 42.0,
+    "p30_peak_pfu": 42.0,
+    "confidence": 0.11706349206349205
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 254124.0,
+    "intensity_max": 296478.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 13168.4,
+    "p30_peak_pfu": 13168.4,
+    "confidence": 0.03342648562720856
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 25.450000000000003,
+    "p30_peak_pfu": 25.450000000000003,
+    "confidence": 0.05127701375245579
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 296478.0,
+    "intensity_max": 338832.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 32.0,
+    "p30_peak_pfu": 32.0,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 338832.0,
+    "intensity_max": 381186.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 36.5,
+    "p30_peak_pfu": 36.5,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 381186.0,
+    "intensity_max": 423540.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 34.4,
+    "p30_peak_pfu": 34.4,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 423540.0,
+    "intensity_max": 465894.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 465894.0,
+    "intensity_max": 508248.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 36.3,
+    "p30_peak_pfu": 36.3,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 508248.0,
+    "intensity_max": 550602.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 550602.0,
+    "intensity_max": 592956.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 36.4,
+    "p30_peak_pfu": 36.4,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 592956.0,
+    "intensity_max": 635310.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 635310.0,
+    "intensity_max": 677664.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 677664.0,
+    "intensity_max": 720018.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 720018.0,
+    "intensity_max": 762372.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 762372.0,
+    "intensity_max": 804726.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 804726.0,
+    "intensity_max": 847080.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 30.5,
+    "p30_peak_pfu": 30.5,
+    "confidence": 0.03333333333333333
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 847080.0,
+    "intensity_max": 889434.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 889434.0,
+    "intensity_max": 931788.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 931788.0,
+    "intensity_max": 974142.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 974142.0,
+    "intensity_max": 1016496.0,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -972850.000000001,
+    "delta_max": -891688.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -891688.2,
+    "delta_max": -810526.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -810526.4,
+    "delta_max": -729364.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -729364.6,
+    "delta_max": -648202.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -648202.8,
+    "delta_max": -567041.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -567041.0,
+    "delta_max": -485879.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -485879.19999999995,
+    "delta_max": -404717.4,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -404717.4,
+    "delta_max": -323555.6,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -323555.6,
+    "delta_max": -242393.79999999993,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -242393.79999999993,
+    "delta_max": -161232.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -161232.0,
+    "delta_max": -80070.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": -80070.19999999995,
+    "delta_max": 1091.6000000000931,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 1091.6000000000931,
+    "delta_max": 82253.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 82253.40000000014,
+    "delta_max": 163415.19999999995,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 163415.19999999995,
+    "delta_max": 244577.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 244577.0,
+    "delta_max": 325738.80000000005,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 325738.80000000005,
+    "delta_max": 406900.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 406900.6000000001,
+    "delta_max": 488062.40000000014,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 488062.40000000014,
+    "delta_max": 569224.2,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 569224.2,
+    "delta_max": 650386.0,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 650386.0,
+    "delta_max": 731547.8,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 731547.8,
+    "delta_max": 812709.6000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 812709.6000000001,
+    "delta_max": 893871.4000000001,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 893871.4000000001,
+    "delta_max": 975033.2000000002,
+    "target_peak_pfu": 5.13,
+    "p30_peak_pfu": 5.13,
+    "confidence": 0.0
+  },
+  {
+    "intensity_min": 1016496.0,
+    "intensity_max": 1058850.000000001,
+    "delta_min": 975033.2000000002,
+    "delta_max": 1056195.000000001,
+    "target_peak_pfu": 28.2,
+    "p30_peak_pfu": 28.2,
+    "confidence": 0.03333333333333333
+  }
+]
