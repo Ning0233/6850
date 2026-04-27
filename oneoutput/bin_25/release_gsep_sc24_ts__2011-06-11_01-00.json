@@ -1,0 +1,44 @@
+{
+  "mode": "HESPERIA REleASE",
+  "model_variant": "ensemble-voter-3-matrix",
+  "peak_flux_prediction_target_pfu": 5.4548,
+  "peak_flux_prediction_10mev_pfu": 5.4548,
+  "confidence_level": 0.0,
+  "warning_times_utc": [],
+  "expected_onset_times_from_warnings_utc": [],
+  "first_expected_onset_time_target": null,
+  "first_expected_onset_time_10mev": null,
+  "forecast_lead_minutes": 60,
+  "sliding_window_min_minutes": null,
+  "sliding_window_max_minutes": null,
+  "delta_window_minutes": null,
+  "hazard_level_pfu": 20.0,
+  "warning_trigger_pfu": 10.0,
+  "type3_filter_applied": false,
+  "type3_filter_passed": null,
+  "notes": [
+    "Ensemble-voter mode enabled: 30/60/90-minute matrix consensus.",
+    "Instrument: GOES.",
+    "Requested ensemble windows: 30, 60, 90 minutes.",
+    "Selected matrix windows: 30, 60, 90 minutes.",
+    "Weighted flux coefficients: m30=0.2, m60=0.5, m90=0.3; conservative target still uses max(votes).",
+    "Warning rules: 0/3 matrices at or above 10.0 pfu; 2-of-3 required for reportable warning."
+  ],
+  "votes": {
+    "m30_pred": 4.9609,
+    "m60_pred": 5.28,
+    "m90_pred": 5.4548
+  },
+  "voter_consensus": "Delayed or Decaying",
+  "status": "NO_ALERT",
+  "matrix_windows_minutes": [
+    30,
+    60,
+    90
+  ],
+  "predicted_peak_flux_30mev": null,
+  "rise_parameter": null,
+  "alert_status": null,
+  "timestamp_utc": null,
+  "invalid_reason": null
+}

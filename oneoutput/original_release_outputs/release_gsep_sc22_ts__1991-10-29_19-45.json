@@ -1,0 +1,44 @@
+{
+  "mode": "original-release",
+  "model_variant": "original-release",
+  "peak_flux_prediction_target_pfu": 22.8,
+  "peak_flux_prediction_10mev_pfu": 22.8,
+  "confidence_level": 0.11926699561403509,
+  "warning_times_utc": [
+    "1991-10-30 07:40:00",
+    "1991-10-30 23:35:00",
+    "1991-10-30 23:45:00",
+    "1991-10-30 23:50:00"
+  ],
+  "expected_onset_times_from_warnings_utc": [
+    "1991-10-30 08:40:00",
+    "1991-10-31 00:35:00",
+    "1991-10-31 00:45:00",
+    "1991-10-31 00:50:00"
+  ],
+  "first_expected_onset_time_target": "1991-10-30 08:40:00",
+  "first_expected_onset_time_10mev": "1991-10-30 08:40:00",
+  "forecast_lead_minutes": 60,
+  "sliding_window_min_minutes": 60,
+  "sliding_window_max_minutes": 60,
+  "delta_window_minutes": null,
+  "hazard_level_pfu": 10.0,
+  "warning_trigger_pfu": 10.0,
+  "type3_filter_applied": false,
+  "type3_filter_passed": null,
+  "notes": [
+    "Original REleASE mode enabled: deterministic 60-minute rise-parameter lookup.",
+    "Rise parameter is computed as I_e(t) * (I_e(t) / I_e(t-60m)).",
+    "Inputs are clamped to [1, 1e5] before log10 matrix indexing.",
+    "Empty matrix cells fall back to a conservative higher-intensity neighbor."
+  ],
+  "votes": null,
+  "voter_consensus": null,
+  "status": null,
+  "matrix_windows_minutes": null,
+  "predicted_peak_flux_30mev": 22.8,
+  "rise_parameter": 153.6,
+  "alert_status": "Alert",
+  "timestamp_utc": "1991-11-01 00:00:00",
+  "invalid_reason": null
+}
