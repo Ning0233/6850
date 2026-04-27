@@ -95,7 +95,7 @@ def _load_times_from_release(release_json: Path, match_time_field: str) -> List[
 
 
 def _classify_event(event_ts: datetime, warning_times: Sequence[datetime]) -> tuple[str, Optional[datetime], Optional[float]]:
-    window_start = event_ts - timedelta(minutes=30)
+    window_start = event_ts - timedelta(minutes=120)
     window_end = event_ts + timedelta(minutes=15)
 
     in_window = [wt for wt in warning_times if window_start <= wt <= window_end]

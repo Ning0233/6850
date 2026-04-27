@@ -38,8 +38,21 @@ def _build_grids(
     cells: Sequence[Dict[str, float]],
     target_field: str,
 ) -> tuple[np.ndarray, np.ndarray, List[float], List[float]]:
-    i_vals = sorted({float(c["intensity_min"]) for c in cells})
-    d_vals = sorted({float(c["delta_min"]) for c in cells})
+    
+    
+    
+    i_vals = sorted({
+        float(c.get("intensity_min", c.get("log_intensity_min"))) 
+        for c in cells 
+        if "intensity_min" in c or "log_intensity_min" in c
+    })
+    
+    d_vals = sorted({
+        float(c.get("delta_min", c.get("log_rise_min"))) 
+        for c in cells 
+        if "delta_min" in c or "log_rise_min" in c
+    })
+
     i_idx = {v: idx for idx, v in enumerate(i_vals)}
     d_idx = {v: idx for idx, v in enumerate(d_vals)}
 
@@ -47,8 +60,11 @@ def _build_grids(
     conf_grid = np.full((len(d_vals), len(i_vals)), np.nan, dtype=float)
 
     for cell in cells:
-        ii = i_idx[float(cell["intensity_min"])]
-        dd = d_idx[float(cell["delta_min"])]
+        intensity_val = cell.get("intensity_min", cell.get("log_intensity_min"))
+        delta_val = cell.get("delta_min", cell.get("log_rise_min"))
+
+        ii = i_idx[float(intensity_val)]
+        dd = d_idx[float(delta_val)]
         target_grid[dd, ii] = _get_target_value(cell, target_field)
         conf_grid[dd, ii] = float(cell.get("confidence", 0.0))
 
