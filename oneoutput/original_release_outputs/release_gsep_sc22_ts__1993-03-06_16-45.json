@@ -1,0 +1,50 @@
+{
+  "mode": "original-release",
+  "model_variant": "original-release",
+  "peak_flux_prediction_target_pfu": 9.08,
+  "peak_flux_prediction_10mev_pfu": 9.08,
+  "confidence_level": 0.4012692731277533,
+  "warning_times_utc": [
+    "1993-03-06 18:15:00",
+    "1993-03-06 18:20:00",
+    "1993-03-06 18:25:00",
+    "1993-03-06 18:30:00",
+    "1993-03-06 18:35:00",
+    "1993-03-06 18:40:00",
+    "1993-03-06 19:50:00"
+  ],
+  "expected_onset_times_from_warnings_utc": [
+    "1993-03-06 19:15:00",
+    "1993-03-06 19:20:00",
+    "1993-03-06 19:25:00",
+    "1993-03-06 19:30:00",
+    "1993-03-06 19:35:00",
+    "1993-03-06 19:40:00",
+    "1993-03-06 20:50:00"
+  ],
+  "first_expected_onset_time_target": "1993-03-06 19:15:00",
+  "first_expected_onset_time_10mev": "1993-03-06 19:15:00",
+  "forecast_lead_minutes": 60,
+  "sliding_window_min_minutes": 60,
+  "sliding_window_max_minutes": 60,
+  "delta_window_minutes": null,
+  "hazard_level_pfu": 10.0,
+  "warning_trigger_pfu": 10.0,
+  "type3_filter_applied": false,
+  "type3_filter_passed": null,
+  "notes": [
+    "Original REleASE mode enabled: deterministic 60-minute rise-parameter lookup.",
+    "Rise parameter is computed as I_e(t) * (I_e(t) / I_e(t-60m)).",
+    "Inputs are clamped to [1, 1e5] before log10 matrix indexing.",
+    "Empty matrix cells fall back to a conservative higher-intensity neighbor."
+  ],
+  "votes": null,
+  "voter_consensus": null,
+  "status": null,
+  "matrix_windows_minutes": null,
+  "predicted_peak_flux_30mev": 9.08,
+  "rise_parameter": 194.0119760479042,
+  "alert_status": "Quiet",
+  "timestamp_utc": "1993-03-07 18:15:00",
+  "invalid_reason": null
+}

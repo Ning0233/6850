@@ -1,0 +1,33 @@
+{
+  "mode": "original-release",
+  "model_variant": "original-release",
+  "peak_flux_prediction_target_pfu": 0.0,
+  "peak_flux_prediction_10mev_pfu": 0.0,
+  "confidence_level": 0.0,
+  "warning_times_utc": [],
+  "expected_onset_times_from_warnings_utc": [],
+  "first_expected_onset_time_target": null,
+  "first_expected_onset_time_10mev": null,
+  "forecast_lead_minutes": 60,
+  "sliding_window_min_minutes": 60,
+  "sliding_window_max_minutes": 60,
+  "delta_window_minutes": null,
+  "hazard_level_pfu": 10.0,
+  "warning_trigger_pfu": 10.0,
+  "type3_filter_applied": false,
+  "type3_filter_passed": null,
+  "notes": [
+    "Original REleASE mode enabled: deterministic 60-minute rise-parameter lookup.",
+    "Release matrix lookup uses conservative nearest-neighbor selection for sparse cells.",
+    "Invalid reason: telemetry_gap_over_5_minutes."
+  ],
+  "votes": null,
+  "voter_consensus": null,
+  "status": null,
+  "matrix_windows_minutes": null,
+  "predicted_peak_flux_30mev": 0.0,
+  "rise_parameter": 0.0,
+  "alert_status": "INVALID",
+  "timestamp_utc": "1991-05-19 15:35:00",
+  "invalid_reason": "telemetry_gap_over_5_minutes"
+}

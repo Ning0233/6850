@@ -1,0 +1,35 @@
+To validate a forecasting agent modeled after REleASE, you should use the standard space weather metrics established in the original 2007 paper and the subsequent **HESPERIA REleASE** updates (2022–2024).
+
+A successful model must be measured against three primary axes: **Predictive Accuracy**, **Reliability**, and **Lead Time**.
+
+### **1. Performance Metrics (The Benchmark)**
+Use these three standard metrics to validate if your agent is performing as well as the baseline REleASE models:
+
+* **POD (Probability of Detection):** The percentage of actual proton events correctly predicted. 
+    * *Baseline Target:* **~63%** (for 30–50 MeV protons).
+* **FAR (False Alarm Ratio):** The percentage of alerts issued that were not followed by an actual proton event.
+    * *Baseline Target:* **~29% – 35%**. (High FAR is a known weakness of the original 2007 model, often caused by fluctuating electron backgrounds).
+* **AWT (Advanced Warning Time):** The time between the alert being issued and the actual proton flux crossing the hazard threshold ($>10 \text{ pfu}$).
+    * *Baseline Target:* **107 – 123 minutes**.
+
+### **2. Step-by-Step Validation Process**
+If you are training or testing your agent, follow this "Working Step" sequence:
+
+| Step | Action | Validation Criteria |
+| :--- | :--- | :--- |
+| **1** | **Historical Backtesting** | Run the agent against the **SOHO/EPHIN** or **ACE/EPAM** datasets from 1996–2010. |
+| **2** | **Background Subtraction** | Ensure the agent can distinguish between a new electron onset and a declining flux from a previous event. |
+| **3** | **Magnetic Connectivity** | Verify if the model correctly identifies "Well-Connected" events (originating from W20–W90 longitude). |
+| **4** | **Intensity Correlation** | Compare the agent's **Predicted Peak Flux** ($J_p$) against the **Actual Peak Flux**. The error should follow the log-normal distribution found in Posner (2007). |
+| **5** | **Type-III Burst Filtering** | (For advanced agents) Validate if adding a requirement for a Type-III radio burst reduces the FAR without significantly lowering the AWT. |
+
+### **3. Validation Against the "False Alarm" Source**
+The most critical validation test for your agent is how it handles **declining phases**.
+* **The Stress Test:** Input a scenario where proton intensity is declining toward the threshold.
+* **The Failure Mode:** Older versions of REleASE often triggered false alarms due to electron fluctuations during the "tail" of an event.
+* **Success Metric:** Your agent should suppress alerts if the electron increase does not show a specific "rise rate" characteristic of a fresh eruption.
+
+### **4. Recommended Validation Dataset**
+To prove the model works, the agent should be tested against the **83 documented SEP events** identified during Solar Cycles 23 and 24. These events are categorized by the NOAA S-Scale (S1–S4), allowing you to validate if the model's accuracy scales with the severity of the radiation storm.
+
+> **Expert Tip:** If you want to move from "Research" to "Operational," validate using **STEREO-A** data. This tests if your agent can predict events that are "behind the limb" of the Sun from Earth's perspective but visible to other spacecraft—a key capability for Mars mission planning.

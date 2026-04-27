@@ -1,0 +1,20 @@
+{
+  "threshold_pfu": 10.0,
+  "total_alerts": 3,
+  "total_actual_events": 2,
+  "true_positives": 2,
+  "false_positives": 1,
+  "false_negatives": 0,
+  "pod": 1.0,
+  "far": 0.3333333333333333,
+  "awt_minutes_mean": 11.5,
+  "awt_minutes_median": 11.5,
+  "pod_target_reference": "~0.63",
+  "far_target_reference": "~0.29 to 0.35",
+  "awt_target_reference": "~107 to 123 minutes",
+  "notes": [
+    "Validation references from REleASE literature used for interpretation:",
+    "POD target approx 0.63, FAR target approx 0.29-0.35, AWT target approx 107-123 minutes.",
+    "POD and FAR are reported as fractions (0 to 1)."
+  ]
+}
