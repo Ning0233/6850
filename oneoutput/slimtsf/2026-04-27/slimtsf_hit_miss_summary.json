@@ -1,0 +1,18 @@
+{
+  "definitions": {
+    "close": "At least one warning in [event_time - 30 min, event_time + 15 min]",
+    "not_found": "No warning in that window"
+  },
+  "counts": {
+    "total": 0,
+    "close": 0,
+    "not_found": 0
+  },
+  "rates": {
+    "close_rate": 0.0,
+    "not_found_rate": 0.0
+  },
+  "timing": {
+    "matched_delta_minutes_mean": null
+  }
+}

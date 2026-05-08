@@ -1,0 +1,22 @@
+{
+  "mode": "Slim-TSF",
+  "model_variant": "slim-tsf-random-forest",
+  "source_file": "/Users/ran/cs/oires/data/processed/slice/2024.csv/SOHO-EPHIN/2024-05-10T16-50-00.csv",
+  "slice_key": "2024-05-10_16-50",
+  "peak_flux_prediction_target_pfu": 0.002,
+  "confidence_level": 0.002,
+  "warning_times_utc": [],
+  "expected_onset_times_from_warnings_utc": [],
+  "alert_status": "Quiet",
+  "selected_features": [
+    "gt8__interval_count",
+    "gt8__slope__pool_mean",
+    "gt8__global_slope",
+    "gt8__global_std"
+  ],
+  "threshold": 0.05,
+  "notes": [
+    "Probability 0.0020",
+    "Threshold 0.0500"
+  ]
+}

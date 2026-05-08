@@ -1,0 +1,6 @@
+model_run,rank_by_close_rate,total,close,not_found,close_rate,not_found_rate,matched_delta_minutes_mean,source_file,notes
+RELeASE_original,1,433,177,256,0.40877598152424943,0.5912240184757506,-26.52542372881356,oneoutput/original_release_outputs/release_hit_miss_summary.json,
+RELeASE_bin_25,2,433,0,433,0.0,1.0,,oneoutput/bin_25/release_hit_miss_summary_bin_25.json,current bin configuration produced no close hits
+RELeASE_bin_35,3,433,0,433,0.0,1.0,,oneoutput/bin_35/release_hit_miss_summary_bin_35.json,current bin configuration produced no close hits
+RELeASE_bin_45,4,433,0,433,0.0,1.0,,oneoutput/bin_45/release_hit_miss_summary_bin_45.json,current bin configuration produced no close hits
+SlimTSF_historical_event_centric,5,433,0,433,0.0,1.0,,oneoutput/slimtsf/slimtsf_hit_miss_summary_historical.json,"event-centric Slim-TSF evaluation over all 433 GSEP events using warning window [-120,+15]"

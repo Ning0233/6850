@@ -1,0 +1,28 @@
+[
+  {
+    "start_time": "2010-08-14 12:25:00",
+    "peak_time": "2010-08-14 12:45:00",
+    "half_peak_time": "2010-08-14 14:25:00",
+    "end_time": "2010-08-14 14:25:00",
+    "peak_flux": 17.157,
+    "fluence_pfu_s": 85797.84000000001,
+    "rise_time_sec": 1200.0,
+    "decay_time_sec": 6000.0,
+    "duration_sec": 7200.0,
+    "source": "data/raw/goes/2010/08/goes14/csv/g14_epead_cpflux_5m_20100801_20100831.csv",
+    "slice_path": "data/processed/2026-05-08 09:53:22.657019/slice/GOES-g14/2010-08-14T00-25-00.csv"
+  },
+  {
+    "start_time": "2015-06-21 21:20:00",
+    "peak_time": "2015-06-21 21:45:00",
+    "half_peak_time": "2015-06-21 23:50:00",
+    "end_time": "2015-06-21 23:55:00",
+    "peak_flux": 25.151,
+    "fluence_pfu_s": 156242.7,
+    "rise_time_sec": 1500.0,
+    "decay_time_sec": 7800.0,
+    "duration_sec": 9300.0,
+    "source": "data/raw/goes/2015/06/goes14/csv/g14_epead_cpflux_5m_20150601_20150630.csv",
+    "slice_path": "data/processed/2026-05-08 09:53:22.657019/slice/GOES-g14/2015-06-21T09-20-00.csv"
+  }
+]

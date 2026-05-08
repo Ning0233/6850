@@ -1,0 +1,18 @@
+{
+  "selected_features": [
+    "p3_flux_ic__global_std",
+    "p3_flux_ic__std__pool_max",
+    "p3_flux_ic__std__pool_mean",
+    "p3_flux_ic__peak_ratio",
+    "p3_flux_ic__std__pool_min",
+    "p3_flux_ic__slope__pool_max",
+    "p3_flux_ic__iqr",
+    "p3_flux_ic__coeff_var",
+    "p3_flux_ic__skew",
+    "p3_flux_ic__global_slope",
+    "p3_flux_ic__slope__pool_mean",
+    "p3_flux_ic__accel",
+    "p3_flux_ic__slope__pool_min"
+  ],
+  "feature_count": 13
+}

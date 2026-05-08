@@ -1,0 +1,22 @@
+{
+  "definitions": {
+    "close": "At least one warning in [event_time - 120 min, event_time + 15 min]",
+    "not_found": "No warning in that window"
+  },
+  "counts": {
+    "total": 433,
+    "close": 0,
+    "not_found": 433
+  },
+  "rates": {
+    "close_rate": 0.0,
+    "not_found_rate": 1.0
+  },
+  "timing": {
+    "matched_delta_minutes_mean": null
+  },
+  "slimtsf_eval": {
+    "mode": "event-centric",
+    "release_json_files_scanned": 139
+  }
+}

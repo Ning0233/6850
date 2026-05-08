@@ -1,0 +1,147 @@
+{
+  "feature_names": [
+    "gt8__mean__pool_max",
+    "gt8__mean__pool_min",
+    "gt8__mean__pool_mean",
+    "gt8__std__pool_max",
+    "gt8__std__pool_min",
+    "gt8__std__pool_mean",
+    "gt8__slope__pool_max",
+    "gt8__slope__pool_min",
+    "gt8__slope__pool_mean",
+    "gt8__interval_count",
+    "gt8__coverage_ratio",
+    "gt8__global_mean",
+    "gt8__global_std",
+    "gt8__global_slope"
+  ],
+  "selected_features": [
+    "gt8__interval_count",
+    "gt8__slope__pool_mean",
+    "gt8__global_slope",
+    "gt8__global_std"
+  ],
+  "top_k": 4,
+  "feature_counts": {
+    "gt8__mean__pool_max": 0,
+    "gt8__mean__pool_min": 0,
+    "gt8__mean__pool_mean": 0,
+    "gt8__std__pool_max": 0,
+    "gt8__std__pool_min": 0,
+    "gt8__std__pool_mean": 0,
+    "gt8__slope__pool_max": 0,
+    "gt8__slope__pool_min": 0,
+    "gt8__slope__pool_mean": 8,
+    "gt8__interval_count": 8,
+    "gt8__coverage_ratio": 0,
+    "gt8__global_mean": 0,
+    "gt8__global_std": 8,
+    "gt8__global_slope": 8
+  },
+  "mean_importances": {
+    "gt8__mean__pool_max": 0.05415943812609966,
+    "gt8__mean__pool_min": 0.06284538729082773,
+    "gt8__mean__pool_mean": 0.06295260415562962,
+    "gt8__std__pool_max": 0.05755092391658922,
+    "gt8__std__pool_min": 0.05580390733413441,
+    "gt8__std__pool_mean": 0.0572277727456941,
+    "gt8__slope__pool_max": 0.06065765260958915,
+    "gt8__slope__pool_min": 0.057860817483052704,
+    "gt8__slope__pool_mean": 0.15203640726845097,
+    "gt8__interval_count": 0.15776621462209747,
+    "gt8__coverage_ratio": 0.0,
+    "gt8__global_mean": 0.0589381086632723,
+    "gt8__global_std": 0.08075737466279682,
+    "gt8__global_slope": 0.0814433911217659
+  },
+  "experiment_summaries": [
+    {
+      "experiment": 0,
+      "selected_features": [
+        "gt8__interval_count",
+        "gt8__slope__pool_mean",
+        "gt8__global_slope",
+        "gt8__global_std"
+      ],
+      "selected_count": 4,
+      "criterion": "gini"
+    },
+    {
+      "experiment": 1,
+      "selected_features": [
+        "gt8__interval_count",
+        "gt8__slope__pool_mean",
+        "gt8__global_slope",
+        "gt8__global_std"
+      ],
+      "selected_count": 4,
+      "criterion": "gini"
+    },
+    {
+      "experiment": 2,
+      "selected_features": [
+        "gt8__slope__pool_mean",
+        "gt8__interval_count",
+        "gt8__global_slope",
+        "gt8__global_std"
+      ],
+      "selected_count": 4,
+      "criterion": "gini"
+    },
+    {
+      "experiment": 3,
+      "selected_features": [
+        "gt8__interval_count",
+        "gt8__slope__pool_mean",
+        "gt8__global_slope",
+        "gt8__global_std"
+      ],
+      "selected_count": 4,
+      "criterion": "gini"
+    },
+    {
+      "experiment": 4,
+      "selected_features": [
+        "gt8__interval_count",
+        "gt8__slope__pool_mean",
+        "gt8__global_std",
+        "gt8__global_slope"
+      ],
+      "selected_count": 4,
+      "criterion": "gini"
+    },
+    {
+      "experiment": 5,
+      "selected_features": [
+        "gt8__interval_count",
+        "gt8__slope__pool_mean",
+        "gt8__global_slope",
+        "gt8__global_std"
+      ],
+      "selected_count": 4,
+      "criterion": "gini"
+    },
+    {
+      "experiment": 6,
+      "selected_features": [
+        "gt8__interval_count",
+        "gt8__slope__pool_mean",
+        "gt8__global_std",
+        "gt8__global_slope"
+      ],
+      "selected_count": 4,
+      "criterion": "gini"
+    },
+    {
+      "experiment": 7,
+      "selected_features": [
+        "gt8__interval_count",
+        "gt8__slope__pool_mean",
+        "gt8__global_slope",
+        "gt8__global_std"
+      ],
+      "selected_count": 4,
+      "criterion": "gini"
+    }
+  ]
+}

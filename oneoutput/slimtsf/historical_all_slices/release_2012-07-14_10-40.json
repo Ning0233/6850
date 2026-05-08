@@ -1,0 +1,26 @@
+{
+  "mode": "Slim-TSF",
+  "model_variant": "slim-tsf-random-forest",
+  "source_file": "/Users/ran/cs/oires/data/processed/slice/2012.csv/SOHO-EPHIN/2012-07-14T10-40-00.csv",
+  "slice_key": "2012-07-14_10-40",
+  "peak_flux_prediction_target_pfu": 0.134,
+  "confidence_level": 0.134,
+  "warning_times_utc": [
+    "2012-07-14 10:40:00"
+  ],
+  "expected_onset_times_from_warnings_utc": [
+    "2012-07-14 10:40:00"
+  ],
+  "alert_status": "Warning",
+  "selected_features": [
+    "gt8__interval_count",
+    "gt8__slope__pool_mean",
+    "gt8__global_slope",
+    "gt8__global_std"
+  ],
+  "threshold": 0.05,
+  "notes": [
+    "Probability 0.1340",
+    "Threshold 0.0500"
+  ]
+}

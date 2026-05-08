@@ -1,0 +1,64 @@
+{
+  "rows": [
+    {
+      "model_run": "RELeASE_original",
+      "source_file": "oneoutput/original_release_outputs/release_hit_miss_summary.json",
+      "total": 433,
+      "close": 177,
+      "not_found": 256,
+      "close_rate": 0.40877598152424943,
+      "not_found_rate": 0.5912240184757506,
+      "matched_delta_minutes_mean": -26.52542372881356,
+      "notes": "",
+      "rank_by_close_rate": 1
+    },
+    {
+      "model_run": "RELeASE_bin_25",
+      "source_file": "oneoutput/bin_25/release_hit_miss_summary_bin_25.json",
+      "total": 433,
+      "close": 0,
+      "not_found": 433,
+      "close_rate": 0.0,
+      "not_found_rate": 1.0,
+      "matched_delta_minutes_mean": null,
+      "notes": "current bin configuration produced no close hits",
+      "rank_by_close_rate": 2
+    },
+    {
+      "model_run": "RELeASE_bin_35",
+      "source_file": "oneoutput/bin_35/release_hit_miss_summary_bin_35.json",
+      "total": 433,
+      "close": 0,
+      "not_found": 433,
+      "close_rate": 0.0,
+      "not_found_rate": 1.0,
+      "matched_delta_minutes_mean": null,
+      "notes": "current bin configuration produced no close hits",
+      "rank_by_close_rate": 3
+    },
+    {
+      "model_run": "RELeASE_bin_45",
+      "source_file": "oneoutput/bin_45/release_hit_miss_summary_bin_45.json",
+      "total": 433,
+      "close": 0,
+      "not_found": 433,
+      "close_rate": 0.0,
+      "not_found_rate": 1.0,
+      "matched_delta_minutes_mean": null,
+      "notes": "current bin configuration produced no close hits",
+      "rank_by_close_rate": 4
+    },
+    {
+      "model_run": "SlimTSF_historical_event_centric",
+      "source_file": "oneoutput/slimtsf/slimtsf_hit_miss_summary_historical.json",
+      "total": 433,
+      "close": 0,
+      "not_found": 433,
+      "close_rate": 0.0,
+      "not_found_rate": 1.0,
+      "matched_delta_minutes_mean": null,
+      "notes": "event-centric Slim-TSF evaluation over all 433 GSEP events using warning window [-120,+15]",
+      "rank_by_close_rate": 5
+    }
+  ]
+}
