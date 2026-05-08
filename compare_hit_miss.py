@@ -4,7 +4,7 @@
 Definitions used in this script:
 - Actual event time: `timestamp` column in GSEP_List.csv.
 - Warning times: `warning_times_utc` from each RELease JSON output.
-- Class `close`: at least one warning in [event_time - 30 min, event_time + 15 min].
+- Class `close`: at least one warning in [event_time - 120 min, event_time + 15 min].
 - Class `not_found`: no warning in that window.
 
 Paper criteria note:
@@ -219,7 +219,7 @@ def _write_summary_json(rows: Sequence[ComparisonRow], out_json: Path) -> None:
 
     summary = {
         "definitions": {
-            "close": "At least one warning in [event_time - 30 min, event_time + 15 min]",
+            "close": "At least one warning in [event_time - 120 min, event_time + 15 min]",
             "not_found": "No warning in that window",
         },
         "counts": {
